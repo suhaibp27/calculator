@@ -1,2 +1,2 @@
 # Calculator
-# Go to master branch to view folders and files
+Go to master branch to view folders and files
